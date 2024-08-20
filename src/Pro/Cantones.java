@@ -19,7 +19,7 @@ public class Cantones {
 
             "Talamanca", "Tarrazú", "Atenas", "San Rafael", "Turrialba", "Osa", "Carrillo", "Matina", "Aserrí", "Naranjo", "San Isidro", "Alvarado", "Aguirre", "Guácimo",
 
-            "Mora", "Palmares", "Belén", "Oreamuno", "Golfito", "Abangares", "Goicoechea", "Poás", "Flores", "El Guarco", "Coto Brus", "Santa Ana", "Orotina",
+            "Mora", "Palmar", "Belén", "Oreamuno", "Golfito", "Abangares", "Goicoechea", "Poás", "Flores", "El Guarco", "Coto Brus", "Santa Ana", "Orotina",
 
             "San Pablo", "Parrita", "Nandayure", "Alajuelita", "San Carlos", "Sarapiquí", "Corredores", "La Cruz", "Vásquez de Coronado", "Alfaro Ruiz", "Garabito",
 
