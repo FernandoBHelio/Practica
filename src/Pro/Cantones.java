@@ -11,7 +11,7 @@ public class Cantones {
     public static void main(String[] args) {
         ejercicioVectorString();
     }
-    
+     
    public static void ejercicioVectorString(){
        String [] cantones={ "Escazú", "San Ramón", "Barva", "Paraíso", "Esparza", "Nicoya", "Pococí", "Desamparados", "Grecia",
 
